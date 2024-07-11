@@ -1,0 +1,9 @@
+package demo.mydemo;
+
+public abstract class SampleOne extends Sample{
+	
+	public void div() {
+		System.out.println(446);
+	}
+
+}

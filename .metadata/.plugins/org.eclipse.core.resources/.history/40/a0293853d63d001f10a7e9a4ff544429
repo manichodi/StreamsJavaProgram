@@ -1,0 +1,17 @@
+package demo.mydemo;
+
+public class NormalOne extends Sample implements TestTwo {
+
+	public void mul() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void add() {
+		// TODO Auto-generated method stub
+		
+	}
+	public void sub() {
+		System.out.println(90140);
+	}
+}

@@ -1,0 +1,6 @@
+package demo.mydemo;
+
+public interface TestTwo extends TestOne {
+
+	public void mul();
+}

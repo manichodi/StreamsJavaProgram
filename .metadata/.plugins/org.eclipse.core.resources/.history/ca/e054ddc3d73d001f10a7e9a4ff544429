@@ -1,0 +1,8 @@
+package demo.mydemo;
+
+public class abstclass {
+	
+	public void add() {
+	}
+
+}

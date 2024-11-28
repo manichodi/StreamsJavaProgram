@@ -1,9 +1,0 @@
-package demo.mydemo;
-
-public abstract class Sample implements TestOne {
-
-	public void sub() {
-		System.out.println(90140);
-	}
-
-}

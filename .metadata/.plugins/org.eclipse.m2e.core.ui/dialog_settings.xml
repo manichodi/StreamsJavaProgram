@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Eclipse Workspace\CodingPractice\src\com\pak3\Details.java"/>
+			<item value="F:\project work\FirstProject-main\FirstProject-main\target\m2e-wtp\web-resources\META-INF"/>
+			<item value="C:\Users\hp\eclipse-workspace"/>
 			<item value="D:\Eclipse Workspace\mydemo\src\main\java\com\demo\enc\Test.java"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -61,5 +64,44 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="F:\project work\fullstack-react-and-springboot-main\fullstack-react-and-springboot-main"/>
+			<item value="F:\project work\SpringMVCCRUDSimple\SpringMVCCRUDSimple"/>
+			<item value="F:\project work\EmpDetails"/>
+			<item value="F:\project work\SpringBootProject\SpringBootProject"/>
+			<item value="F:\project work\DemoProject\DemoProject"/>
+			<item value="F:\project work\Return\Return"/>
+			<item value="F:\project work\Orders\Orders"/>
+			<item value="F:\project work\Cart\Cart"/>
+			<item value="F:\project work\Inventory\Inventory"/>
+			<item value="F:\project work\Inventory1\Inventory1"/>
+			<item value="F:\project work\Inventory\Inventory1"/>
+			<item value="F:\Cart\Cart"/>
+			<item value="F:\project work\SpringDIMa\SpringDIMa"/>
+			<item value="F:\project work\Practice\Practice"/>
+			<item value="F:\project work\FirstProject-main\FirstProject-main"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
